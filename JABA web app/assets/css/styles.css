@@ -1,0 +1,68 @@
+#login .item i{
+  font-size:50px;
+}
+
+span.label.label-default{
+  font-size:15px;
+}
+
+a.navbar-link{
+  font-family:inherit;
+  font-size:15px;
+}
+
+a.navbar-brand.navbar-link{
+  font-size:20px;
+}
+
+div#divsearch{
+  padding-top:50px;
+}
+
+i.glyphicon.glyphicon-search{
+  font-size:15px;
+  padding-right:10px;
+}
+
+div#divtable{
+  padding-top:20px;
+}
+
+div#activity.table-responsive{
+  border-style:groove;
+}
+
+div#concreate.container{
+  padding-top:10px;
+}
+
+ul.nav.nav-pills{
+  background-color:rgba(8,8,8,0.12);
+}
+
+span.label.label-default{
+  font-size:20px;
+}
+
+html{
+  min-width:500px;
+  min-height:700px;
+}
+
+span#class-list.label.label-default{
+  font-size:25px;
+  background-color:#686769;
+}
+
+i.glyphicon.glyphicon-print{
+  font-size:20px;
+  padding-left:15px;
+}
+
+div#activity-content{
+  padding-top:50px;
+}
+
+div#content.container{
+  display:inline;
+}

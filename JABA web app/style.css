@@ -1,0 +1,23 @@
+textarea#code{
+    background: url(http://i.imgur.com/2cOaJ.png);
+background-attachment: local;
+background-repeat: no-repeat;
+padding-left: 35px;
+padding-top: 10px;
+    border-color:#ccc;
+    font-size: 15px;
+    line-height: 17.5px;
+}
+div.plane{
+	margin-top: 30px;
+ background-color: white;
+border:1px solid black;
+border-radius: 5px;
+padding: 10px;
+text-align: center;
+}
+input.buttonPlane{
+	border: 1px solid;
+	border-radius: 5px;
+	background-color: white;
+}
